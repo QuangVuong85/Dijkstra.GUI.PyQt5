@@ -9,7 +9,7 @@
 [fbs](https://pypi.org/project/fbs/)
 
 # Reference
-[1](https://www.learnpyqt.com/)
+[1](https://www.learnpyqt.com/),
 [2](https://build-system.fman.io/pyqt5-tutorial)
 
 # Virtual Environment
