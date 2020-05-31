@@ -5,8 +5,8 @@
 * [Qt Designer](https://pypi.org/project/pyqt5-tools/)
 
 # Deloy mutil-flatform
-[pyqtdeploy ](https://pypi.org/project/pyqtdeploy/)
-[fbs](https://pypi.org/project/fbs/)
+* [pyqtdeploy ](https://pypi.org/project/pyqtdeploy/)
+* [fbs](https://pypi.org/project/fbs/)
 
 # Reference
 [1](https://www.learnpyqt.com/),
