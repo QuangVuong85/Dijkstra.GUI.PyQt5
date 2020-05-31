@@ -1,7 +1,11 @@
 # Dijkstra.GUI.PyQt5
 * [Python 3](https://www.python.org/)
 * [PyQt5](https://pypi.org/project/PyQt5/)
+* [PySide2](https://pypi.org/project/PySide2/)
 * [Qt Designer](https://pypi.org/project/pyqt5-tools/)
+
+# Deloy mutil-flatform
+[pyqtdeploy ](https://pypi.org/project/pyqtdeploy/)
 
 # Reference
 [1](https://www.learnpyqt.com/)
